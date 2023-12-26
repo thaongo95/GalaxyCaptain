@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/GalaxyCaptain/GalaxyCaptain.qml</file>
+        <file>ui/GalaxyCaptain/DirectionBt.qml</file>
+        <file>ui/assets/left-arrow.png</file>
+        <file>ui/GalaxyCaptain/SpaceShip.qml</file>
+        <file>ui/assets/spaceship.png</file>
+        <file>ui/GalaxyCaptain/FireBt.qml</file>
+        <file>ui/assets/speed.png</file>
+        <file>ui/GalaxyCaptain/BulletFire.qml</file>
+    </qresource>
+</RCC>
